@@ -1,6 +1,6 @@
 ### Hi there my name is Karim, welcome to my Github👋
 
-- 🌱 I’m an ALX student learning Software Engineering
+- 🌱 I’m an **ALX** student learning **Software Engineering**
 - 📫 How to reach me:
 
 
