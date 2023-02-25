@@ -11,6 +11,8 @@
   <a href="mailto:karimelkahla@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+---
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=kenueve&show_icons=true&theme=highcontrast"
@@ -22,3 +24,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=kenueve&show_icons=true" />
 </picture>
+
+---
