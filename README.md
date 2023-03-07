@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+<!--- 
 <picture>
 <source 
   srcset="https://readmestat-blond.vercel.app/api?username=kenueve&show_icons=true&theme=highcontrast"
@@ -24,6 +24,6 @@
 />
 <img src="https://readmestat-blond.vercel.app/api?username=kenueve&show_icons=true" />
 </picture>
-
+-->
 ---
 
